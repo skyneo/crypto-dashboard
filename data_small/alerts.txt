@@ -39,3 +39,5 @@
 2026-02-08 23:30:48 (2026-02-08 15:30:00 UTC) EIGENUSDT - SR Breakout happened on downside
 2026-02-08 23:30:52 (2026-02-08 15:30:00 UTC) HEMIUSDT - SR Breakout happened on downside
 2026-02-08 23:45:22 (2026-02-08 15:45:00 UTC) SENTUSDT - SR Breakout happened on downside
+2026-02-09 00:00:27 (2026-02-08 16:00:00 UTC) FILUSDT - SR Breakout happened on downside
+2026-02-09 00:00:31 (2026-02-08 16:00:00 UTC) FLOWUSDT - SR Breakout happened on downside
