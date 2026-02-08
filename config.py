@@ -24,15 +24,14 @@ def find_project_root():
 PROJECT_ROOT = find_project_root()
 #PROJECT_ROOT = Path(__file__).parent.parent.resolve()   # assumes config.py is in project root
 
-DATA_DIR = PROJECT_ROOT / "data"
-DATA_STREAM_DIR = PROJECT_ROOT / "data"
+DATA_DIR = PROJECT_ROOT / "data_small"
 IMAGES_DIR = PROJECT_ROOT / "images"
 
 # Existing files
 SYMBOLS_ALL_CSV = DATA_DIR / "binance_300_symbols.csv"
 SYMBOLS_FILTERED_CSV = DATA_DIR / "filtered_symbols.csv"
-ALERTS_FILE = DATA_STREAM_DIR / "alerts.txt"
-DASHBOARD_STATE_PARQUET = DATA_STREAM_DIR / "dashboard_state.parquet"
+ALERTS_FILE = DATA_DIR / "alerts.txt"
+DASHBOARD_STATE_PARQUET = DATA_DIR / "dashboard_state.parquet"
 
 # ======================
 #  Dashboard & UI Settings
