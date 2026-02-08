@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+env.secret
+envSetup.txt
+data/*
+images/*
+bk1/*
+main*.py
+test*.py
+*.parquet
+alerts.txt
+test_alerts.txt
+runWrapper.bat
+symbolRefresh.sh
+runBreakOutCheck.sh
+MessageTelegram.txt
+streamlit_pass_hasher.py
+uv.lock
+logs/*
+*.csv 
+*.toml  # if secrets.toml has local keys
