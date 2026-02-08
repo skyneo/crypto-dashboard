@@ -13,6 +13,7 @@ wheels/
 env.secret
 envSetup.txt
 images/*
+data_main/*
 bk1/*
 main*.py
 test*.py
