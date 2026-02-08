@@ -31,3 +31,10 @@
 2026-02-08 23:15:22 (2026-02-08 15:15:00 UTC) HBARUSDT - SR Breakout happened on upside
 2026-02-08 23:15:28 (2026-02-08 15:15:00 UTC) 币安人生USDT - SR Breakout happened on upside
 2026-02-08 23:15:36 (2026-02-08 15:15:00 UTC) CHESSUSDT - SR Breakout happened on downside
+2026-02-08 23:30:23 (2026-02-08 15:30:00 UTC) SENTUSDT - SR Breakout happened on downside
+2026-02-08 23:30:27 (2026-02-08 15:30:00 UTC) ENAUSDT - SR Breakout happened on downside
+2026-02-08 23:30:32 (2026-02-08 15:30:00 UTC) FILUSDT - SR Breakout happened on downside
+2026-02-08 23:30:37 (2026-02-08 15:30:00 UTC) APTUSDT - SR Breakout happened on downside
+2026-02-08 23:30:42 (2026-02-08 15:30:00 UTC) ARUSDT - SR Breakout happened on downside
+2026-02-08 23:30:48 (2026-02-08 15:30:00 UTC) EIGENUSDT - SR Breakout happened on downside
+2026-02-08 23:30:52 (2026-02-08 15:30:00 UTC) HEMIUSDT - SR Breakout happened on downside
