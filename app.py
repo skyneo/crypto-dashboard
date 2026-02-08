@@ -24,18 +24,6 @@ from config import (
 from utils.data_loader import load_token_parquet, load_alerts
 from utils.charting import create_candlestick_fig   # ← we'll create this next
 
-#@st.cache_data(ttl=900)  # 15 min
-#def load_from_cloud(file_name, gdrive_link):
-#    url = f"https://drive.google.com/file/d/{gdrive_link}"  # make shareable link
-#    path = DATA_DIR / file_name
-#    with open(path, "wb") as f:
-#        f.write(requests.get(url).content)
-#    return path
-#
-# Call in load functions
-#load_from_cloud("dashboard_state.parquet", "1hFWBcj9tn6uIhiw23YZ8hVit2qJ6ljId/view?usp=sharing")
-#load_from_cloud("alerts.txt", "1NjhH5pUq1xwsf6P7LCi0iUb_pzojfr34/view?usp=drive_link")
-
 # Add this near the top of app.py (after imports)
 @st.cache_data(ttl=60)  # refresh every minute
 def load_alerts():
