@@ -117,7 +117,7 @@ if authentication_status:
     @st.cache_data(ttl=300)  # cache 5 min
     def load_state():
         path = Path(DASHBOARD_STATE_PARQUET)
-        #print(f"DASHBOARD_STATE_PARQUET: {DASHBOARD_STATE_PARQUET}")
+        print(f"DASHBOARD_STATE_PARQUET: {DASHBOARD_STATE_PARQUET}")
         if not path.exists():
             st.error(f"Dashboard state not found: {path}")
             return pd.DataFrame()
