@@ -47,3 +47,4 @@
 2026-02-09 00:15:28 (2026-02-08 16:15:00 UTC) ARUSDT - SR Breakout happened on downside
 2026-02-09 00:15:29 (2026-02-08 16:15:00 UTC) CHZUSDT - SR Breakout happened on downside
 2026-02-09 00:15:31 (2026-02-08 16:15:00 UTC) PENDLEUSDT - SR Breakout happened on downside
+2026-02-09 00:30:21 (2026-02-08 16:30:00 UTC) ASTERUSDT - SR Breakout happened on upside
