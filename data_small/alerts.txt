@@ -150,3 +150,4 @@
 2026-02-09 02:00:28 (2026-02-08 18:00:00 UTC) FFUSDT - SR Breakout happened on downside
 2026-02-09 02:00:29 (2026-02-08 18:00:00 UTC) AMPUSDT - SR Breakout happened on downside
 2026-02-09 02:30:24 (2026-02-08 18:30:00 UTC) PARTIUSDT - SR Breakout happened on upside
+2026-02-09 03:15:22 (2026-02-08 19:15:00 UTC) ZAMAUSDT - SR Breakout happened on downside
