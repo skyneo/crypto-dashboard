@@ -4,3 +4,13 @@
 2026-02-08 19:20:14 (2026-02-08 11:00:00 UTC) SOMIUSDT - SR Breakout about to happen on downside
 2026-02-08 19:20:17 (2026-02-08 11:00:00 UTC) AWEUSDT - SR Breakout happened on upside
 2026-02-08 19:20:18 (2026-02-08 11:00:00 UTC) AWEUSDT - SR Breakout happened on upside
+2026-02-08 19:45:23 (2026-02-08 11:45:00 UTC) ETHUSDT - SR Breakout happened on upside
+2026-02-08 19:45:28 (2026-02-08 11:45:00 UTC) HBARUSDT - SR Breakout happened on upside
+2026-02-08 19:45:33 (2026-02-08 11:45:00 UTC) WBTCUSDT - SR Breakout happened on upside
+2026-02-08 19:45:39 (2026-02-08 11:45:00 UTC) KITEUSDT - SR Breakout happened on upside
+2026-02-08 19:45:43 (2026-02-08 11:45:00 UTC) PARTIUSDT - SR Breakout happened on upside
+2026-02-08 20:00:39 (2026-02-08 12:00:00 UTC) BTCUSDT - SR Breakout happened on upside
+2026-02-08 20:00:43 (2026-02-08 12:00:00 UTC) ETHUSDT - SR Breakout happened on upside
+2026-02-08 20:00:48 (2026-02-08 12:00:00 UTC) HBARUSDT - SR Breakout happened on upside
+2026-02-08 20:00:53 (2026-02-08 12:00:00 UTC) ASTERUSDT - SR Breakout happened on upside
+2026-02-08 20:00:57 (2026-02-08 12:00:00 UTC) WBTCUSDT - SR Breakout happened on upside

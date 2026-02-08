@@ -30,9 +30,17 @@ st.caption("All detected breakouts and setup signals from the system")
 # ────────────────────────────────────────────────
 @st.cache_data(ttl=60)  # refresh every minute
 def load_and_parse_alerts():
-    if not Path(ALERTS_FILE).exists():
-        st.warning(f"Alerts file not found: {ALERTS_FILE}")
-        return pd.DataFrame()
+    if Path(ALERTS_FILE).exists():
+        st.write(f"File size: {Path(ALERTS_FILE).stat().st_size} bytes")
+        with open(ALERTS_FILE, 'r') as f:
+            first_lines = f.readlines()[:5]
+        #st.write("First 5 lines:", first_lines)
+    else:
+        st.error("alerts.txt NOT FOUND on cloud")
+
+    #if not Path(ALERTS_FILE).exists():
+    #    st.warning(f"Alerts file not found: {ALERTS_FILE}")
+    #    return pd.DataFrame()
 
     lines = []
     with open(ALERTS_FILE, "r", encoding="utf-8") as f:
@@ -80,6 +88,7 @@ def load_and_parse_alerts():
 
     df = pd.DataFrame(lines)
     df = df.sort_values("timestamp_local", ascending=False).reset_index(drop=True)
+    ##st.write("lines:", df)
     return df
 
 
@@ -112,7 +121,7 @@ with st.sidebar:
     )
 
     # Status & Direction
-    status_options = ["happened", "about to happen", "Unknown"]
+    status_options = ["SR happened", "about to happen", "Unknown"]
     selected_status = st.multiselect("Status", options=status_options, default=status_options)
 
     direction_options = ["upside", "downside", "Unknown"]
