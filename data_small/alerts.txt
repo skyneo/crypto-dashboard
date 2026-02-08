@@ -23,3 +23,6 @@
 2026-02-08 22:15:30 (2026-02-08 14:00:00 UTC) XRPUSDT - SR Breakout about to happen on upside
 2026-02-08 22:15:35 (2026-02-08 14:15:00 UTC) ASTERUSDT - SR Breakout happened on upside
 2026-02-08 22:30:29 (2026-02-08 14:30:00 UTC) KITEUSDT - SR Breakout happened on upside
+2026-02-08 22:45:26 (2026-02-08 14:45:00 UTC) ZROUSDT - SR Breakout happened on upside
+2026-02-08 22:45:32 (2026-02-08 14:45:00 UTC) PARTIUSDT - SR Breakout happened on upside
+2026-02-08 22:45:34 (2026-02-08 14:45:00 UTC) XVGUSDT - SR Breakout happened on upside
