@@ -145,3 +145,4 @@
 2026-02-09 01:01:24 (2026-02-08 17:00:00 UTC) JUPUSDT - SR Breakout happened on downside
 2026-02-09 01:01:25 (2026-02-08 17:00:00 UTC) PYTHUSDT - SR Breakout happened on downside
 2026-02-09 01:15:27 (2026-02-08 17:15:00 UTC) FOGOUSDT - SR Breakout happened on downside
+2026-02-09 01:30:25 (2026-02-08 17:30:00 UTC) AMPUSDT - SR Breakout happened on downside
