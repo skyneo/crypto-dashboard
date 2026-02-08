@@ -25,7 +25,7 @@ PROJECT_ROOT = find_project_root()
 #PROJECT_ROOT = Path(__file__).parent.parent.resolve()   # assumes config.py is in project root
 
 DATA_DIR = PROJECT_ROOT / "data"
-DATA_STREAM_DIR = PROJECT_ROOT / "data_stream"
+DATA_STREAM_DIR = PROJECT_ROOT / "data"
 IMAGES_DIR = PROJECT_ROOT / "images"
 
 # Existing files
