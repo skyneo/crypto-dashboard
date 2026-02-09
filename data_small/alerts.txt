@@ -151,3 +151,47 @@
 2026-02-09 02:00:29 (2026-02-08 18:00:00 UTC) AMPUSDT - SR Breakout happened on downside
 2026-02-09 02:30:24 (2026-02-08 18:30:00 UTC) PARTIUSDT - SR Breakout happened on upside
 2026-02-09 03:15:22 (2026-02-08 19:15:00 UTC) ZAMAUSDT - SR Breakout happened on downside
+2026-02-09 09:53:05 (2026-02-09 01:45:00 UTC) ETHUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:06 (2026-02-09 01:45:00 UTC) SOLUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:07 (2026-02-09 01:45:00 UTC) BNBUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:08 (2026-02-09 01:45:00 UTC) DOGEUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:09 (2026-02-09 01:45:00 UTC) ADAUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:10 (2026-02-09 01:45:00 UTC) SUIUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:11 (2026-02-09 01:45:00 UTC) LINKUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:12 (2026-02-09 01:45:00 UTC) AVAXUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:13 (2026-02-09 01:45:00 UTC) WLDUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:15 (2026-02-09 01:45:00 UTC) PROVEUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:16 (2026-02-09 01:45:00 UTC) UNIUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:17 (2026-02-09 01:45:00 UTC) NEARUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:18 (2026-02-09 01:45:00 UTC) AAVEUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:19 (2026-02-09 01:45:00 UTC) FILUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:20 (2026-02-09 01:45:00 UTC) WIFUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:21 (2026-02-09 01:45:00 UTC) ARBUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:22 (2026-02-09 01:45:00 UTC) ENSOUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:23 (2026-02-09 01:45:00 UTC) PENGUUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:24 (2026-02-09 01:45:00 UTC) ICPUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:24 (2026-02-09 01:45:00 UTC) ONDOUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:26 (2026-02-09 01:45:00 UTC) DOTUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:27 (2026-02-09 01:45:00 UTC) TONUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:27 (2026-02-09 01:45:00 UTC) SHIBUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:28 (2026-02-09 01:45:00 UTC) BONKUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:29 (2026-02-09 01:45:00 UTC) SEIUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:30 (2026-02-09 01:45:00 UTC) RENDERUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:31 (2026-02-09 01:45:00 UTC) CRVUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:32 (2026-02-09 01:45:00 UTC) KITEUSDT - SR Breakout about to happen on upside
+2026-02-09 09:53:33 (2026-02-09 01:45:00 UTC) ETCUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:35 (2026-02-09 01:45:00 UTC) CAKEUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:36 (2026-02-09 01:45:00 UTC) ETHFIUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:37 (2026-02-09 01:45:00 UTC) LDOUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:38 (2026-02-09 01:45:00 UTC) PENDLEUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:39 (2026-02-09 01:45:00 UTC) BIOUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:40 (2026-02-09 01:45:00 UTC) ALGOUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:41 (2026-02-09 01:45:00 UTC) BNSOLUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:42 (2026-02-09 01:45:00 UTC) FLOKIUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:43 (2026-02-09 01:45:00 UTC) GALAUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:44 (2026-02-09 01:45:00 UTC) ATOMUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:45 (2026-02-09 01:45:00 UTC) LINEAUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:46 (2026-02-09 01:45:00 UTC) HOLOUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:47 (2026-02-09 01:45:00 UTC) ENSUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:48 (2026-02-09 01:45:00 UTC) FFUSDT - SR Breakout about to happen on downside
+2026-02-09 09:53:49 (2026-02-09 01:45:00 UTC) FLOWUSDT - SR Breakout about to happen on upside
