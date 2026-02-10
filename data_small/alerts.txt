@@ -239,3 +239,4 @@
 2026-02-10 02:00:28 (2026-02-09 18:00:00 UTC) ENSUSDT - TL Breakout happened on upside
 2026-02-10 21:00:28 (2026-02-10 13:00:00 UTC) FETUSDT - SR Breakout happened on downside
 2026-02-11 05:00:25 (2026-02-10 21:00:00 UTC) QNTUSDT - TL Breakout happened on upside
+2026-02-11 05:01:21 (2026-02-10 21:00:00 UTC) QNTUSDT - TL Breakout happened on upside
