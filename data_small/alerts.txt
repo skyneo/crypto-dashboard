@@ -241,3 +241,4 @@
 2026-02-11 05:00:25 (2026-02-10 21:00:00 UTC) QNTUSDT - TL Breakout happened on upside
 2026-02-11 05:01:21 (2026-02-10 21:00:00 UTC) QNTUSDT - TL Breakout happened on upside
 2026-02-11 06:00:28 (2026-02-10 22:00:00 UTC) BCHUSDT - TL Breakout happened on upside
+2026-02-11 06:01:21 (2026-02-10 22:00:00 UTC) BCHUSDT - TL Breakout happened on upside
