@@ -331,3 +331,10 @@
 2026-02-12 06:00:31 (2026-02-11 22:00:00 UTC) ETCUSDT - TL Breakout happened on upside
 2026-02-12 06:00:32 (2026-02-11 22:00:00 UTC) INJUSDT - TL Breakout happened on upside
 2026-02-12 06:00:34 (2026-02-11 22:00:00 UTC) QNTUSDT - TL Breakout happened on upside
+2026-02-12 07:00:24 (2026-02-11 23:00:00 UTC) ETHUSDT - TL Breakout happened on upside
+2026-02-12 07:00:25 (2026-02-11 23:00:00 UTC) LTCUSDT - TL Breakout happened on upside
+2026-02-12 07:00:26 (2026-02-11 23:00:00 UTC) BCHUSDT - TL Breakout happened on upside
+2026-02-12 07:00:28 (2026-02-11 23:00:00 UTC) AAVEUSDT - TL Breakout happened on upside
+2026-02-12 07:00:29 (2026-02-11 23:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
+2026-02-12 07:00:30 (2026-02-11 23:00:00 UTC) ETCUSDT - TL Breakout happened on upside
+2026-02-12 07:00:32 (2026-02-11 23:00:00 UTC) QNTUSDT - TL Breakout happened on upside
