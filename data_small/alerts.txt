@@ -295,3 +295,5 @@
 2026-02-11 13:53:47 (2026-02-11 02:00:00 UTC) INJUSDT - TL Breakout happened on upside
 2026-02-11 13:53:49 (2026-02-11 02:00:00 UTC) ENSUSDT - TL Breakout happened on upside
 2026-02-11 13:53:50 (2026-02-11 02:00:00 UTC) QNTUSDT - TL Breakout happened on upside
+2026-02-11 16:00:42 (2026-02-11 08:00:00 UTC) ENSOUSDT - TL Breakout happened on upside
+2026-02-11 16:00:45 (2026-02-11 08:00:00 UTC) XVGUSDT - SR Breakout happened on downside
