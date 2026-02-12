@@ -376,3 +376,8 @@
 2026-02-12 14:00:30 (2026-02-12 06:00:00 UTC) GIGGLEUSDT - SR Breakout happened on upside
 2026-02-12 14:00:31 (2026-02-12 06:00:00 UTC) ETCUSDT - TL Breakout happened on upside
 2026-02-12 14:00:32 (2026-02-12 06:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
+2026-02-12 15:00:31 (2026-02-12 07:00:00 UTC) ETHUSDT - TL Breakout happened on upside
+2026-02-12 15:00:34 (2026-02-12 07:00:00 UTC) AAVEUSDT - TL Breakout happened on upside
+2026-02-12 15:00:35 (2026-02-12 07:00:00 UTC) ETCUSDT - TL Breakout happened on upside
+2026-02-12 15:00:37 (2026-02-12 07:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
+2026-02-12 15:00:38 (2026-02-12 07:00:00 UTC) NOMUSDT - SR Breakout happened on upside
