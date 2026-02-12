@@ -411,3 +411,4 @@
 2026-02-12 21:00:41 (2026-02-12 13:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
 2026-02-12 21:00:43 (2026-02-12 13:00:00 UTC) ETCUSDT - TL Breakout happened on upside
 2026-02-12 21:00:44 (2026-02-12 13:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
+2026-02-12 22:00:24 (2026-02-12 14:00:00 UTC) BCHUSDT - TL Breakout happened on upside
