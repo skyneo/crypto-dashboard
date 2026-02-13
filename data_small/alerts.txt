@@ -490,3 +490,5 @@
 2026-02-14 00:00:30 (2026-02-13 16:00:00 UTC) ICPUSDT - TL Breakout happened on upside
 2026-02-14 00:00:32 (2026-02-13 16:00:00 UTC) ETCUSDT - TL Breakout happened on upside
 2026-02-14 00:00:35 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-14 01:00:25 (2026-02-13 17:00:00 UTC) ZECUSDT - TL Breakout happened on upside
+2026-02-14 01:00:27 (2026-02-13 17:00:00 UTC) ZAMAUSDT - SR Breakout happened on upside
