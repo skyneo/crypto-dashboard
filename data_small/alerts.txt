@@ -497,3 +497,21 @@
 2026-02-14 02:00:29 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-14 03:00:27 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-14 05:00:30 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-14 10:14:40 (2026-02-14 02:00:00 UTC) ZECUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:42 (2026-02-14 02:00:00 UTC) LINKUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:44 (2026-02-14 02:00:00 UTC) TAOUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:44 (2026-02-14 02:00:00 UTC) WLDUSDT - SR Breakout happened on upside
+2026-02-14 10:14:46 (2026-02-14 02:00:00 UTC) XPLUSDT - SR Breakout happened on upside
+2026-02-14 10:14:47 (2026-02-14 02:00:00 UTC) PENGUUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:48 (2026-02-14 02:00:00 UTC) VIRTUALUSDT - SR Breakout happened on upside
+2026-02-14 10:14:49 (2026-02-14 02:00:00 UTC) ZROUSDT - SR Breakout about to happen on downside
+2026-02-14 10:14:50 (2026-02-14 02:00:00 UTC) RENDERUSDT - SR Breakout happened on upside
+2026-02-14 10:14:51 (2026-02-14 02:00:00 UTC) POLUSDT - SR Breakout happened on upside
+2026-02-14 10:14:52 (2026-02-14 02:00:00 UTC) ZENUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:53 (2026-02-14 02:00:00 UTC) PENDLEUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:54 (2026-02-14 02:00:00 UTC) INJUSDT - SR Breakout happened on upside
+2026-02-14 10:14:55 (2026-02-14 02:00:00 UTC) PARTIUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:56 (2026-02-14 02:00:00 UTC) ATOMUSDT - SR Breakout happened on upside
+2026-02-14 10:14:57 (2026-02-14 02:00:00 UTC) PYTHUSDT - SR Breakout about to happen on upside
+2026-02-14 10:14:58 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-14 10:14:59 (2026-02-14 02:00:00 UTC) QNTUSDT - SR Breakout about to happen on upside
