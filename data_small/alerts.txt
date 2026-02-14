@@ -518,3 +518,17 @@
 2026-02-14 11:00:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-14 12:00:26 (2026-02-14 04:00:00 UTC) TAOUSDT - SR Breakout happened on upside
 2026-02-14 13:00:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-14 20:26:02 (2026-02-14 12:15:00 UTC) AAVEUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:03 (2026-02-14 12:15:00 UTC) WBTCUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:04 (2026-02-14 12:15:00 UTC) 币安人生USDT - SR Breakout about to happen on upside
+2026-02-14 20:26:05 (2026-02-14 12:15:00 UTC) ARBUSDT - SR Breakout happened on upside
+2026-02-14 20:26:07 (2026-02-14 12:15:00 UTC) RENDERUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:08 (2026-02-14 12:15:00 UTC) POLUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:09 (2026-02-14 12:15:00 UTC) ETCUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:10 (2026-02-14 12:15:00 UTC) ALGOUSDT - SR Breakout happened on upside
+2026-02-14 20:26:11 (2026-02-14 12:15:00 UTC) ATOMUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:12 (2026-02-14 12:15:00 UTC) EIGENUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:14 (2026-02-14 12:15:00 UTC) PYTHUSDT - SR Breakout happened on upside
+2026-02-14 20:26:15 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-14 20:26:16 (2026-02-14 12:15:00 UTC) FLOWUSDT - SR Breakout about to happen on upside
+2026-02-14 20:26:16 (2026-02-14 12:15:00 UTC) QNTUSDT - SR Breakout about to happen on upside
