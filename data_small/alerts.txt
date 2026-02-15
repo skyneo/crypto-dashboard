@@ -554,3 +554,8 @@
 2026-02-15 16:00:30 (2026-02-15 08:00:00 UTC) GPSUSDT - SR Breakout happened on upside
 2026-02-15 16:00:31 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-15 17:00:23 (2026-02-15 09:00:00 UTC) EURUSDT - SR Breakout about to happen on upside
+2026-02-15 23:37:27 (2026-02-15 15:30:00 UTC) ENSOUSDT - SR Breakout about to happen on downside
+2026-02-15 23:37:30 (2026-02-15 15:30:00 UTC) SKYUSDT - SR Breakout happened on downside
+2026-02-15 23:37:31 (2026-02-15 15:30:00 UTC) ALGOUSDT - SR Breakout happened on downside
+2026-02-15 23:37:32 (2026-02-15 15:30:00 UTC) SOMIUSDT - SR Breakout about to happen on upside
+2026-02-15 23:37:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
