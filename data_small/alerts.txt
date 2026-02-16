@@ -560,3 +560,8 @@
 2026-02-15 23:37:32 (2026-02-15 15:30:00 UTC) SOMIUSDT - SR Breakout about to happen on upside
 2026-02-15 23:37:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-16 00:00:35 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-16 09:37:14 (2026-02-16 01:30:00 UTC) PUMPUSDT - SR Breakout about to happen on downside
+2026-02-16 09:37:16 (2026-02-16 01:30:00 UTC) VIRTUALUSDT - SR Breakout about to happen on downside
+2026-02-16 09:37:17 (2026-02-16 01:30:00 UTC) CYBERUSDT - SR Breakout happened on downside
+2026-02-16 09:37:19 (2026-02-16 01:30:00 UTC) GUNUSDT - SR Breakout happened on downside
+2026-02-16 09:37:20 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
