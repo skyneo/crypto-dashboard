@@ -632,3 +632,5 @@
 2026-02-17 22:00:26 (2026-02-17 14:00:00 UTC) AVAXUSDT - TL Breakout happened on upside
 2026-02-17 22:00:28 (2026-02-17 14:00:00 UTC) AAVEUSDT - TL Breakout happened on upside
 2026-02-17 22:00:32 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-17 23:00:32 (2026-02-17 15:00:00 UTC) PAXGUSDT - SR Breakout happened on downside
+2026-02-17 23:00:38 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
