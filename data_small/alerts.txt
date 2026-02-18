@@ -669,3 +669,8 @@
 2026-02-18 15:00:24 (2026-02-18 07:00:00 UTC) LTCUSDT - TL Breakout happened on upside
 2026-02-18 15:00:28 (2026-02-18 07:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
 2026-02-18 15:00:30 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-18 16:00:23 (2026-02-18 08:00:00 UTC) BNBUSDT - TL Breakout happened on upside
+2026-02-18 16:00:25 (2026-02-18 08:00:00 UTC) LTCUSDT - TL Breakout happened on upside
+2026-02-18 16:00:26 (2026-02-18 08:00:00 UTC) AVAXUSDT - TL Breakout happened on upside
+2026-02-18 16:00:30 (2026-02-18 08:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
+2026-02-18 16:00:32 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
