@@ -733,3 +733,6 @@
 2026-02-19 23:00:32 (2026-02-19 15:00:00 UTC) INJUSDT - TL Breakout happened on upside
 2026-02-19 23:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-20 01:00:29 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-20 02:00:25 (2026-02-19 18:00:00 UTC) ZROUSDT - TL Breakout happened on upside
+2026-02-20 02:00:27 (2026-02-19 18:00:00 UTC) INJUSDT - TL Breakout happened on upside
+2026-02-20 02:00:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
