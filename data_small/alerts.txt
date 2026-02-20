@@ -841,3 +841,6 @@
 2026-02-20 21:00:30 (2026-02-20 13:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
 2026-02-20 21:00:32 (2026-02-20 13:00:00 UTC) ETCUSDT - TL Breakout happened on upside
 2026-02-20 21:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-20 22:00:31 (2026-02-20 14:00:00 UTC) AAVEUSDT - SR Breakout happened on downside
+2026-02-20 22:00:33 (2026-02-20 14:00:00 UTC) ENSOUSDT - TL Breakout happened on upside
+2026-02-20 22:00:36 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
