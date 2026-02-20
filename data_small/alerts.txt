@@ -880,3 +880,8 @@
 2026-02-21 03:00:30 (2026-02-20 19:00:00 UTC) ENSOUSDT - TL Breakout happened on upside
 2026-02-21 03:00:31 (2026-02-20 19:00:00 UTC) GIGGLEUSDT - TL Breakout happened on upside
 2026-02-21 03:00:33 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-21 04:00:23 (2026-02-20 20:00:00 UTC) ETHUSDT - TL Breakout happened on upside
+2026-02-21 04:00:25 (2026-02-20 20:00:00 UTC) AVAXUSDT - TL Breakout happened on upside
+2026-02-21 04:00:27 (2026-02-20 20:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
+2026-02-21 04:00:28 (2026-02-20 20:00:00 UTC) GIGGLEUSDT - TL Breakout happened on upside
+2026-02-21 04:00:30 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
