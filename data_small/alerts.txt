@@ -941,3 +941,5 @@
 2026-02-23 09:00:33 (2026-02-23 01:00:00 UTC) LDOUSDT - SR Breakout happened on downside
 2026-02-23 09:00:34 (2026-02-23 01:00:00 UTC) BNSOLUSDT - SR Breakout happened on downside
 2026-02-23 09:00:36 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-23 21:00:24 (2026-02-23 13:00:00 UTC) TRXUSDT - SR Breakout happened on downside
+2026-02-23 21:00:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
