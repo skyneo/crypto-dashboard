@@ -1069,3 +1069,14 @@
 2026-02-25 12:00:26 (2026-02-25 04:00:00 UTC) BNBUSDT - TL Breakout happened on upside
 2026-02-25 12:00:31 (2026-02-25 04:00:00 UTC) ATOMUSDT - TL Breakout happened on upside
 2026-02-25 12:00:33 (2026-02-25 04:00:00 UTC) QNTUSDT - TL Breakout happened on upside
+2026-02-25 13:00:24 (2026-02-25 05:00:00 UTC) ETHUSDT - TL Breakout happened on upside
+2026-02-25 13:00:25 (2026-02-25 05:00:00 UTC) BNBUSDT - TL Breakout happened on upside
+2026-02-25 13:00:27 (2026-02-25 05:00:00 UTC) LTCUSDT - TL Breakout happened on upside
+2026-02-25 13:00:28 (2026-02-25 05:00:00 UTC) BCHUSDT - TL Breakout happened on upside
+2026-02-25 13:00:29 (2026-02-25 05:00:00 UTC) AVAXUSDT - TL Breakout happened on upside
+2026-02-25 13:00:31 (2026-02-25 05:00:00 UTC) AAVEUSDT - TL Breakout happened on upside
+2026-02-25 13:00:32 (2026-02-25 05:00:00 UTC) ENSOUSDT - SR Breakout happened on upside
+2026-02-25 13:00:33 (2026-02-25 05:00:00 UTC) GIGGLEUSDT - TL Breakout happened on upside
+2026-02-25 13:00:35 (2026-02-25 05:00:00 UTC) ATOMUSDT - TL Breakout happened on upside
+2026-02-25 13:00:37 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-25 13:00:38 (2026-02-25 05:00:00 UTC) QNTUSDT - TL Breakout happened on upside
