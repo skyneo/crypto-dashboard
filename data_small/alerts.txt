@@ -1246,3 +1246,8 @@
 2026-03-01 02:00:29 (2026-02-28 18:00:00 UTC) PENDLEUSDT - TL Breakout happened on upside
 2026-03-01 02:00:30 (2026-02-28 18:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
 2026-03-01 02:00:32 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-01 03:00:26 (2026-02-28 19:00:00 UTC) AAVEUSDT - TL Breakout happened on upside
+2026-03-01 03:00:27 (2026-02-28 19:00:00 UTC) ICPUSDT - TL Breakout happened on upside
+2026-03-01 03:00:28 (2026-02-28 19:00:00 UTC) ZROUSDT - TL Breakout happened on upside
+2026-03-01 03:00:29 (2026-02-28 19:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
+2026-03-01 03:00:31 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
