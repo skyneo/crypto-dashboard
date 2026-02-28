@@ -1219,3 +1219,15 @@
 2026-02-28 01:00:29 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-28 02:00:30 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-02-28 19:00:27 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-28 22:00:27 (2026-02-28 14:00:00 UTC) BTCUSDT - TL Breakout happened on upside
+2026-02-28 22:00:28 (2026-02-28 14:00:00 UTC) ETHUSDT - TL Breakout happened on upside
+2026-02-28 22:00:29 (2026-02-28 14:00:00 UTC) XRPUSDT - TL Breakout happened on upside
+2026-02-28 22:00:30 (2026-02-28 14:00:00 UTC) SOLUSDT - TL Breakout happened on upside
+2026-02-28 22:00:32 (2026-02-28 14:00:00 UTC) TAOUSDT - TL Breakout happened on upside
+2026-02-28 22:00:32 (2026-02-28 14:00:00 UTC) UNIUSDT - TL Breakout happened on upside
+2026-02-28 22:00:33 (2026-02-28 14:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
+2026-02-28 22:00:35 (2026-02-28 14:00:00 UTC) CAKEUSDT - TL Breakout happened on upside
+2026-02-28 22:00:36 (2026-02-28 14:00:00 UTC) BNSOLUSDT - TL Breakout happened on upside
+2026-02-28 22:00:37 (2026-02-28 14:00:00 UTC) ENSUSDT - TL Breakout happened on upside
+2026-02-28 22:00:38 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-02-28 22:00:39 (2026-02-28 14:00:00 UTC) QNTUSDT - TL Breakout happened on upside
