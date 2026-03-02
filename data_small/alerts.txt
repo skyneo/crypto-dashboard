@@ -1288,3 +1288,5 @@
 2026-03-02 13:00:33 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-03-02 15:00:27 (2026-03-02 07:00:00 UTC) BCHUSDT - TL Breakout happened on upside
 2026-03-02 15:00:31 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-02 16:00:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-02 16:00:29 (2026-03-02 08:00:00 UTC) FLOWUSDT - SR Breakout happened on downside
