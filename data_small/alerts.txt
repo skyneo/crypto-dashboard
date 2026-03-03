@@ -1370,3 +1370,17 @@
 2026-03-04 01:00:44 (2026-03-03 17:00:00 UTC) AUCTIONUSDT - TL Breakout happened on upside
 2026-03-04 01:00:45 (2026-03-03 17:00:00 UTC) ENSUSDT - TL Breakout happened on upside
 2026-03-04 01:00:46 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-04 02:00:23 (2026-03-03 18:00:00 UTC) BNBUSDT - TL Breakout happened on upside
+2026-03-04 02:00:24 (2026-03-03 18:00:00 UTC) ZECUSDT - TL Breakout happened on upside
+2026-03-04 02:00:25 (2026-03-03 18:00:00 UTC) LINKUSDT - TL Breakout happened on upside
+2026-03-04 02:00:26 (2026-03-03 18:00:00 UTC) LTCUSDT - TL Breakout happened on upside
+2026-03-04 02:00:27 (2026-03-03 18:00:00 UTC) BCHUSDT - TL Breakout happened on upside
+2026-03-04 02:00:28 (2026-03-03 18:00:00 UTC) AVAXUSDT - TL Breakout happened on upside
+2026-03-04 02:00:30 (2026-03-03 18:00:00 UTC) TAOUSDT - TL Breakout happened on upside
+2026-03-04 02:00:31 (2026-03-03 18:00:00 UTC) UNIUSDT - TL Breakout happened on upside
+2026-03-04 02:00:32 (2026-03-03 18:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
+2026-03-04 02:00:34 (2026-03-03 18:00:00 UTC) ZENUSDT - TL Breakout happened on upside
+2026-03-04 02:00:36 (2026-03-03 18:00:00 UTC) INJUSDT - TL Breakout happened on upside
+2026-03-04 02:00:37 (2026-03-03 18:00:00 UTC) AUCTIONUSDT - TL Breakout happened on upside
+2026-03-04 02:00:38 (2026-03-03 18:00:00 UTC) ENSUSDT - TL Breakout happened on upside
+2026-03-04 02:00:39 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
