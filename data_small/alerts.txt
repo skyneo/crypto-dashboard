@@ -1448,3 +1448,8 @@
 2026-03-05 18:00:27 (2026-03-05 10:00:00 UTC) KERNELUSDT - SR Breakout happened on upside
 2026-03-05 18:01:27 (2026-03-05 10:00:00 UTC) KERNELUSDT - SR Breakout happened on upside
 2026-03-05 18:01:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-05 23:00:27 (2026-03-05 15:00:00 UTC) TAOUSDT - TL Breakout happened on upside
+2026-03-05 23:00:29 (2026-03-05 15:00:00 UTC) DASHUSDT - TL Breakout happened on upside
+2026-03-05 23:00:31 (2026-03-05 15:00:00 UTC) KERNELUSDT - SR Breakout happened on upside
+2026-03-05 23:00:32 (2026-03-05 15:00:00 UTC) ENSUSDT - TL Breakout happened on upside
+2026-03-05 23:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
