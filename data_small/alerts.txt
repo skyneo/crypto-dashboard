@@ -1466,3 +1466,5 @@
 2026-03-06 02:01:26 (2026-03-05 18:00:00 UTC) CAKEUSDT - SR Breakout happened on downside
 2026-03-06 04:00:25 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-03-06 04:01:25 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-06 05:00:24 (2026-03-05 21:00:00 UTC) AVAXUSDT - TL Breakout happened on upside
+2026-03-06 05:00:25 (2026-03-05 21:00:00 UTC) TAOUSDT - TL Breakout happened on upside
