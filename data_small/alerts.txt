@@ -1481,3 +1481,5 @@
 2026-03-06 13:00:27 (2026-03-06 05:00:00 UTC) TAOUSDT - TL Breakout happened on upside
 2026-03-06 13:00:31 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-03-06 14:00:30 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-06 16:00:28 (2026-03-06 08:00:00 UTC) KITEUSDT - SR Breakout happened on upside
+2026-03-06 16:00:30 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
