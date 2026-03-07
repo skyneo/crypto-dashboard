@@ -1517,3 +1517,5 @@
 2026-03-07 16:00:28 (2026-03-07 08:00:00 UTC) FFUSDT - SR Breakout happened on upside
 2026-03-07 16:00:29 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-03-07 17:00:28 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-07 18:00:31 (2026-03-07 10:00:00 UTC) AWEUSDT - SR Breakout happened on upside
+2026-03-07 18:00:33 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
