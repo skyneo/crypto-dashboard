@@ -1560,3 +1560,5 @@
 2026-03-09 02:00:27 (2026-03-08 18:00:00 UTC) TRUMPUSDT - TL Breakout happened on upside
 2026-03-09 02:00:29 (2026-03-08 18:00:00 UTC) GIGGLEUSDT - TL Breakout happened on upside
 2026-03-09 02:00:31 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-09 08:00:30 (2026-03-09 00:00:00 UTC) ZKUSDT - SR Breakout happened on downside
+2026-03-09 08:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
