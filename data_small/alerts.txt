@@ -1684,3 +1684,10 @@
 2026-03-10 05:00:25 (2026-03-09 21:00:00 UTC) AAVEUSDT - TL Breakout happened on upside
 2026-03-10 05:00:26 (2026-03-09 21:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
 2026-03-10 05:00:29 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-10 09:00:23 (2026-03-10 01:00:00 UTC) BTCUSDT - TL Breakout happened on upside
+2026-03-10 09:00:24 (2026-03-10 01:00:00 UTC) BNBUSDT - TL Breakout happened on upside
+2026-03-10 09:00:26 (2026-03-10 01:00:00 UTC) LTCUSDT - TL Breakout happened on upside
+2026-03-10 09:00:28 (2026-03-10 01:00:00 UTC) TAOUSDT - TL Breakout happened on upside
+2026-03-10 09:00:29 (2026-03-10 01:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
+2026-03-10 09:00:31 (2026-03-10 01:00:00 UTC) LAUSDT - SR Breakout happened on upside
+2026-03-10 09:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
