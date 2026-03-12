@@ -1779,3 +1779,10 @@
 2026-03-13 00:00:30 (2026-03-12 16:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
 2026-03-13 00:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
 2026-03-13 00:00:35 (2026-03-12 16:00:00 UTC) QNTUSDT - TL Breakout happened on upside
+2026-03-13 01:00:24 (2026-03-12 17:00:00 UTC) BNBUSDT - TL Breakout happened on upside
+2026-03-13 01:00:25 (2026-03-12 17:00:00 UTC) ZECUSDT - TL Breakout happened on upside
+2026-03-13 01:00:27 (2026-03-12 17:00:00 UTC) LTCUSDT - TL Breakout happened on upside
+2026-03-13 01:00:28 (2026-03-12 17:00:00 UTC) BCHUSDT - TL Breakout happened on upside
+2026-03-13 01:00:30 (2026-03-12 17:00:00 UTC) WBTCUSDT - TL Breakout happened on upside
+2026-03-13 01:00:34 (2026-02-13 02:45:00 UTC) CHESSUSDT - SR Breakout about to happen on downside
+2026-03-13 01:00:35 (2026-03-12 17:00:00 UTC) QNTUSDT - TL Breakout happened on upside
